@@ -25,8 +25,8 @@ Son útiles para encontrar puntos en una recta.
 
 | Nombre | Ecuación | Limitaciones |
 |---------|----------|-------|
-|Ecuacion vectorial de la recta| $\vec{\chi}=P + t\vec{v}$| Varias|
 | Interpolación de dos puntos|$\vec{\chi}=(1-t)P + tQ$ | Varias|
+|Ecuacion vectorial de la recta| $\vec{\chi}=P + t\vec{v}$| Varias|
 | Ecuaciones paramétricas | $x=P_x + t v_x$ $y=P_y + t v_y$ | Varias |
 
 
