@@ -1,8 +1,12 @@
-Rectas en 2D
+# Rectas en 2D
 
-Representaciones No Pramétricas
+## Representaciones No Pramétricas
+
+Son ecuaciones que se cumplen sólo para los puntos $(x,y)$
 
 Son útiles para verificar si un punto pertenece a la recta.
+
+
 
 | Nombre | Ecuación | Limitaciones |
 |---------|----------|-------|
@@ -12,8 +16,9 @@ Son útiles para verificar si un punto pertenece a la recta.
 | Una Ecuación lineal de dos variables | $n_x x + n_y y  = d$ | Varias |
 
 
+## Representaciones Pramétricas
 
-Representaciones Pramétricas
+El parametro es la varible $t \in \mathbb{R}$. Cada valor de $t$ genera un punto $\vec{\chi}=(x,y)$.
 
 Son útiles para encontrar puntos en una recta.
 
@@ -23,7 +28,7 @@ Son útiles para encontrar puntos en una recta.
 | Interpolación de dos puntos|$\vec{\chi}=(1-t)P + tQ$ | Varias|
 
 
-Limitaciones:
+## Descripción de las limitaciones:
 * Hor: No permite rectas horizontales
 * Vert: No permite rectas verticales
 * Orig: No permite rectas que pasan por el origen
