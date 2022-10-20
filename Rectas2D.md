@@ -2,6 +2,8 @@ Rectas en 2D
 
 Representaciones No Pramétricas
 
+Son útiles para verificar si un punto pertenece a la recta.
+
 | Nombre | Ecuación | Limitaciones |
 |---------|----------|-------|
 | Fun. recta.| $y=mx+b$ | Vert |
@@ -12,6 +14,8 @@ Representaciones No Pramétricas
 
 
 Representaciones Pramétricas
+
+Son útiles para encontrar puntos en una recta.
 
 | Nombre | Ecuación | Limitaciones |
 |---------|----------|-------|
