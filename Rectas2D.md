@@ -5,8 +5,8 @@ Representaciones No Pramétricas
 | Nombre | Ecuación | Limitaciones |
 |---------|----------|-------|
 | Fun. recta.| $y=mx+b$ | Vert |
-| Puntos de corte | $x/a + y/b =1$ | Vert, Hor, Orig|
-|Simétrica | $(x - P_x)/v_x = (y - P_y)/v_y$| Hor, Vert, Varias|
+| Puntos de corte | $\frac{x}{a} + \frac{y}{b} =1$ | Vert, Hor, Orig|
+|Simétrica | $\frac{x - P_x}{v_x} = \frac{y - P_y}{v_y}$| Hor, Vert, Varias|
 | Una Ecuación lineal de dos variables | $n_x x + n_y y  = d$ | Varias |
 
 
