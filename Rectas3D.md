@@ -17,7 +17,7 @@ Son útiles para verificar si un punto pertenece a la recta.
 
 ## Representaciones Pramétricas
 
-El parametro es la varible $t \in \mathbb{R}$. Cada valor de $t$ genera un punto $\vec{\chi}=(x,y)$.
+El parametro es la varible $t \in \mathbb{R}$. Cada valor de $t$ genera un punto $\vec{\chi}=(x,y,z)$.
 
 Son útiles para encontrar puntos en una recta.
 
