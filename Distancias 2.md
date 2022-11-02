@@ -1,3 +1,7 @@
+## Punto $P_1$ a punto $P_2$
+
+$d(P_1,P_2)=|| \vec{P_1 P_2} ||$
+
 ## Punto $P_1$ a recta $r_2=\\{ P_2 + t_2v_2 \mid t\in \mathbb{R}\\}$ 
 
 $d(P_1,r_2)=||\vec{P_1 P_2} - (v_2 \cdot \vec{P_1 P_2})v_2||$ 
