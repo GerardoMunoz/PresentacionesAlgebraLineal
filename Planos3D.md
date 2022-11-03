@@ -6,7 +6,7 @@ En las ecuaciones del plano se distinguen los siguientes valores:
 * $P, Q, R$ : Tres puntos
 
 
-## Representaciones No Pramétricas
+## Representaciones No Paramétricas
 
 Son ecuaciones que se cumplen sólo para los puntos $\vec{\chi}=(x,y,z)$
 
