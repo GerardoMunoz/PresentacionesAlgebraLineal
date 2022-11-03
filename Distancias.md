@@ -1,6 +1,11 @@
+# Distancias entre puntos, rectas y planos (o hiperplanos) en $\mathbb{R}^n$ 
+
+Antes de comenzar, recordemos que $\overrightarrow{P_1P_2} = P_2 - P_1 $
+ 
+
 ## Punto $P_1$ a punto $P_2$
 
-$d(P_1,P_2)=|| \vec{P_1 P_2} ||$
+$d(P_1,P_2)=|| \\overrightarrow{P_1 P_2} ||=|| P_2 - P_1 ||$
 
 ## Punto $P_1$ a recta $r_2=\\{ P_2 + t_2v_2 \mid t\in \mathbb{R}\\}$ 
 
