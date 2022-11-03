@@ -1,5 +1,11 @@
 # Rectas en 3D
 
+En una recta se distinguen los siguientes valores:
+* $v=\pmatrix{v_x \\\\ v_y}$ : Vector dirección
+* $n=\pmatrix{n_x \\\\ n_y}$ : Vector normal
+* $P=\pmatrix{P_x \\\\ P_y}$, $Q=\pmatrix{Q_x \\\\ Q_y}$ : Dos puntos
+
+
 ## Representaciones No Pramétricas
 
 Son ecuaciones que se cumplen sólo para los puntos $(x,y,z)$
