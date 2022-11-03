@@ -1,6 +1,6 @@
 # Rectas en 2D
 
-En una recta se distinguen los siguientes valores:
+En las ecuaciones de la recta se distinguen los siguientes valores:
 * $m$: Pendiente.
 * $a$, $b$: Cortes con los ejes $x$, $y$.
 * $v=\pmatrix{v_x \\\\ v_y}$ : Vector dirección
