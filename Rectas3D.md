@@ -2,7 +2,7 @@
 
 En las ecuaciones de la recta se distinguen los siguientes valores:
 * $v=\pmatrix{v_x \\\\ v_y \\\\ v_z}$ : Vector dirección
-* $n=\pmatrix{n_x \\\\ n_y \\\\ n_z}$ : Vector normal
+* $n=\pmatrix{n_x \\\\ n_y \\\\ n_z}$, $m=\pmatrix{m_x \\\\ m_y \\\\ m_z}$ : Dos vectores perpendiculares
 * $P=\pmatrix{P_x \\\\ P_y \\\\ P_z}$, $Q$ : Dos puntos
 
 
