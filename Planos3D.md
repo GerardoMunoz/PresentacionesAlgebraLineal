@@ -1,5 +1,11 @@
 # Planos en 3D
 
+En las ecuaciones del plano se distinguen los siguientes valores:
+* $v_1, v_2$ : Dos vectores dirección del plano 
+* $n=\pmatrix{n_x \\\\ n_y \\\\ n_z}$ : Un vector normal al pl
+* $P, Q, R$ : Tres puntos
+
+
 ## Representaciones No Pramétricas
 
 Son ecuaciones que se cumplen sólo para los puntos $\vec{\chi}=(x,y,z)$
