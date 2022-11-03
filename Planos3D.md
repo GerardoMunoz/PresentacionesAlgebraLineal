@@ -21,16 +21,16 @@ Son útiles para verificar si un punto pertenece al plano.
 
 
 
-## Representaciones Pramétricas
+## Representaciones Paramétricas
 
-Los parámetros son las varibles $t,s \in \mathbb{R}$. Cada valor de $t$ y de $s$ generan un punto $\vec{\chi}=(x,y,z)$.
+Los parámetros son las variables $t,s \in \mathbb{R}$. Cada valor de $t$ y de $s$ generan un punto $\vec{\chi}=(x,y,z)$.
 
 Son útiles para encontrar puntos en el plano.
 
 | Nombre | Ecuación | Limitaciones |
 |---------|----------|-------|
 | Interpolación de tres puntos|$\vec{\chi}=(1-t-s)P + t Q + s R$ | Varias|
-|Ecuacion vectorial del plano| $\vec{\chi}=P + s\vec{u} + t\vec{v}$| Varias|
+|Ecuación vectorial del plano| $\vec{\chi}=P + s\vec{u} + t\vec{v}$| Varias|
 
 
 ## Descripción de las limitaciones:
