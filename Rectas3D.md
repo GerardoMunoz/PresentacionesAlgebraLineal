@@ -6,7 +6,7 @@ En las ecuaciones de la recta se distinguen los siguientes valores:
 * $P=\pmatrix{P_x \\\\ P_y \\\\ P_z}$, $Q$ : Dos puntos
 
 
-## Representaciones No Pramétricas
+## Representaciones No Paramétricas
 
 Son ecuaciones que se cumplen sólo para los puntos $(x,y,z)$
 
@@ -21,16 +21,16 @@ Son útiles para verificar si un punto pertenece a la recta.
 
 
 
-## Representaciones Pramétricas
+## Representaciones Paramétricas
 
-El parametro es la varible $t \in \mathbb{R}$. Cada valor de $t$ genera un punto $\vec{\chi}=(x,y,z)$.
+El parámetro es la variable $t \in \mathbb{R}$. Cada valor de $t$ genera un punto $\vec{\chi}=(x,y,z)$.
 
 Son útiles para encontrar puntos en una recta.
 
 | Nombre | Ecuación | Limitaciones |
 |---------|----------|-------|
 | Interpolación de dos puntos|$\vec{\chi}=(1-t)P + tQ$ | Varias|
-|Ecuacion vectorial de la recta| $\vec{\chi}=P + t\vec{v}$| Varias|
+|Ecuación vectorial de la recta| $\vec{\chi}=P + t\vec{v}$| Varias|
 | Ecuaciones paramétricas | $x=P_x + t v_x$,   $y=P_y + t v_y$,   $z=P_z + t v_z$ | Varias |
 
 
