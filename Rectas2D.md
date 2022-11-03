@@ -7,7 +7,7 @@ En las ecuaciones de la recta se distinguen los siguientes valores:
 * $n=\pmatrix{n_x \\\\ n_y}$ : Vector normal
 * $P=\pmatrix{P_x \\\\ P_y}$, $Q$ : Dos puntos
 
-## Representaciones No Pramétricas
+## Representaciones No Paramétricas
 
 Son ecuaciones que se cumplen sólo para los puntos $(x,y)$
 
@@ -24,9 +24,9 @@ Son útiles para verificar si un punto pertenece a la recta.
 
 
 
-## Representaciones Pramétricas
+## Representaciones Paramétricas
 
-El parametro es la varible $t \in \mathbb{R}$. Cada valor de $t$ genera un punto $\vec{\chi}=(x,y)$.
+El parámetro es la variable $t \in \mathbb{R}$. Cada valor de $t$ genera un punto $\vec{\chi}=(x,y)$.
 
 Son útiles para encontrar puntos en una recta.
 
