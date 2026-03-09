@@ -4,7 +4,7 @@ En las ecuaciones de la recta se distinguen los siguientes valores:
 * $m$: Pendiente.
 * $a$, $b$: Cortes con los ejes $x$, $y$.
 * $v=\pmatrix{v_x \\\\ v_y}$ : Vector dirección
-* $n=\pmatrix{n_x \\\\ n_y}$ : Vector normal
+* $n=\pmatrix{n_x \\\\ n_y}$ : Vector ortogonal
 * $P=\pmatrix{P_x \\\\ P_y}$, $Q$ : Dos puntos
 
 ## Representaciones No Paramétricas
