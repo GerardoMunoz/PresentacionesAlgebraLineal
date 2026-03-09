@@ -22,6 +22,8 @@ Son útiles para verificar si un punto pertenece a la recta.
 |Simétrica | $\frac{x - P_x}{v_x} = \frac{y - P_y}{v_y}$| Hor, Vert, Varias|
 | Una Ecuación lineal de dos variables | $n_x x + n_y y  = d$ | Varias |
 
+$d=P \cdot n
+
 
 
 ## Representaciones Paramétricas
